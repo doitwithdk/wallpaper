@@ -1,0 +1,26 @@
+PODS:
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+  - Toast-Swift (5.0.1)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+
+DEPENDENCIES:
+  - Toast-Swift (~> 5.0.0)
+  - UIActivityIndicator-for-SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - Toast-Swift
+    - UIActivityIndicator-for-SDWebImage
+
+SPEC CHECKSUMS:
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+
+PODFILE CHECKSUM: 48678f47314e249e55584301599be05d9d33b9ff
+
+COCOAPODS: 1.9.1
